@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\Project24_04_29\\",
+  "WorkspaceRootPath": "D:\\code\\C_codes\\Project24_04_29\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|D:\\code\\Project24_04_29\\Project24_04_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|solutionrelative:Project24_04_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|solutionrelative:Project24_04_29\\Project24_04_29.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7301881C-F2E6-47A1-B1BF-33B206B7C311}|Project24_04_29\\Project24_04_29.vcxproj|solutionrelative:Project24_04_29\\Project24_04_29.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +22,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project24_04_29.vcxproj.filters",
+              "DocumentMoniker": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj.filters",
+              "RelativeDocumentMoniker": "Project24_04_29\\Project24_04_29.vcxproj.filters",
+              "ToolTip": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj.filters",
+              "RelativeToolTip": "Project24_04_29\\Project24_04_29.vcxproj.filters",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T07:37:53.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project24_04_29.vcxproj",
+              "DocumentMoniker": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj",
+              "RelativeDocumentMoniker": "Project24_04_29\\Project24_04_29.vcxproj",
+              "ToolTip": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\Project24_04_29.vcxproj",
+              "RelativeToolTip": "Project24_04_29\\Project24_04_29.vcxproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2024-05-13T07:37:51.932Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\code\\Project24_04_29\\Project24_04_29\\test.c",
+              "DocumentMoniker": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\test.c",
               "RelativeDocumentMoniker": "Project24_04_29\\test.c",
-              "ToolTip": "D:\\code\\Project24_04_29\\Project24_04_29\\test.c",
+              "ToolTip": "D:\\code\\C_codes\\Project24_04_29\\Project24_04_29\\test.c",
               "RelativeToolTip": "Project24_04_29\\test.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
