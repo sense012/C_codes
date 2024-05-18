@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Project24_04_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4390A36D-F36A-4AA3-B24F-7E4070C4E0C4}|Project24_04_09\\Project24_04_09.vcxproj|D:\\code\\Project24_04_09\\Project24_04_09\\\u002701\u0027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4390A36D-F36A-4AA3-B24F-7E4070C4E0C4}|Project24_04_09\\Project24_04_09.vcxproj|solutionrelative:Project24_04_09\\\u002701\u0027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4390A36D-F36A-4AA3-B24F-7E4070C4E0C4}|Project24_04_09\\Project24_04_09.vcxproj|D:\\code\\Project24_04_09\\Project24_04_09\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4390A36D-F36A-4AA3-B24F-7E4070C4E0C4}|Project24_04_09\\Project24_04_09.vcxproj|solutionrelative:Project24_04_09\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u002701\u0027.c",
+              "DocumentMoniker": "D:\\code\\Project24_04_09\\Project24_04_09\\\u002701\u0027.c",
+              "RelativeDocumentMoniker": "Project24_04_09\\\u002701\u0027.c",
+              "ToolTip": "D:\\code\\Project24_04_09\\Project24_04_09\\\u002701\u0027.c",
+              "RelativeToolTip": "Project24_04_09\\\u002701\u0027.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T06:53:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "array.c",
+              "DocumentMoniker": "D:\\code\\Project24_04_09\\Project24_04_09\\array.c",
+              "RelativeDocumentMoniker": "Project24_04_09\\array.c",
+              "ToolTip": "D:\\code\\Project24_04_09\\Project24_04_09\\array.c",
+              "RelativeToolTip": "Project24_04_09\\array.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-09T07:51:41.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

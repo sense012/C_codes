@@ -1,0 +1,5 @@
+﻿  '01'.c
+  array.c
+  正在生成代码...
+D:\code\Project24_04_09\Project24_04_09\'01'.c(10,1): warning C4716: “count1”: 必须返回一个值
+  Project24_04_09.vcxproj -> D:\code\Project24_04_09\x64\Debug\Project24_04_09.exe
