@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Project24_04_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DFB79E-3ED1-4A88-8BFF-7E5642EAE5A5}|Project24_04_05\\Project24_04_05.vcxproj|D:\\code\\Project24_04_05\\Project24_04_05\\bubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60DFB79E-3ED1-4A88-8BFF-7E5642EAE5A5}|Project24_04_05\\Project24_04_05.vcxproj|solutionrelative:Project24_04_05\\bubble.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DFB79E-3ED1-4A88-8BFF-7E5642EAE5A5}|Project24_04_05\\Project24_04_05.vcxproj|D:\\code\\Project24_04_05\\Project24_04_05\\reverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60DFB79E-3ED1-4A88-8BFF-7E5642EAE5A5}|Project24_04_05\\Project24_04_05.vcxproj|solutionrelative:Project24_04_05\\reverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reverse.c",
+              "DocumentMoniker": "D:\\code\\Project24_04_05\\Project24_04_05\\reverse.c",
+              "RelativeDocumentMoniker": "Project24_04_05\\reverse.c",
+              "ToolTip": "D:\\code\\Project24_04_05\\Project24_04_05\\reverse.c",
+              "RelativeToolTip": "Project24_04_05\\reverse.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T13:12:24.999Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubble.c",
+              "DocumentMoniker": "D:\\code\\Project24_04_05\\Project24_04_05\\bubble.c",
+              "RelativeDocumentMoniker": "Project24_04_05\\bubble.c",
+              "ToolTip": "D:\\code\\Project24_04_05\\Project24_04_05\\bubble.c",
+              "RelativeToolTip": "Project24_04_05\\bubble.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T03:20:33.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
