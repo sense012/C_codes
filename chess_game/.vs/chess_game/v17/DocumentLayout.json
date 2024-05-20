@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\chess_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|D:\\code\\chess_game\\chess_game\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|solutionrelative:chess_game\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|D:\\code\\chess_game\\chess_game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|solutionrelative:chess_game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|D:\\code\\chess_game\\chess_game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BD12A58-A3BA-45DB-A411-D6DD3C581898}|chess_game\\chess_game.vcxproj|solutionrelative:chess_game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\code\\chess_game\\chess_game\\game.h",
+              "RelativeDocumentMoniker": "chess_game\\game.h",
+              "ToolTip": "D:\\code\\chess_game\\chess_game\\game.h",
+              "RelativeToolTip": "chess_game\\game.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-01T04:52:53.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\code\\chess_game\\chess_game\\game.c",
+              "RelativeDocumentMoniker": "chess_game\\game.c",
+              "ToolTip": "D:\\code\\chess_game\\chess_game\\game.c",
+              "RelativeToolTip": "chess_game\\game.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T04:51:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\chess_game\\chess_game\\test.c",
+              "RelativeDocumentMoniker": "chess_game\\test.c",
+              "ToolTip": "D:\\code\\chess_game\\chess_game\\test.c",
+              "RelativeToolTip": "chess_game\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T04:40:03.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

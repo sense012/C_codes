@@ -1,0 +1,3 @@
+﻿  game.c
+D:\code\chess_game\chess_game\game.c(184,1): warning C4715: “ifwin”: 不是所有的控件路径都返回值
+  chess_game.vcxproj -> D:\code\chess_game\x64\Debug\chess_game.exe
