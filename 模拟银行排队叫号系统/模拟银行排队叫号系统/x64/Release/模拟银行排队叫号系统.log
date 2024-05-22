@@ -1,0 +1,8 @@
+﻿  draft.c
+  test.c
+D:\code\模拟银行排队叫号系统\模拟银行排队叫号系统\test.c(325,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  模拟银行排队叫号系统.vcxproj -> D:\code\模拟银行排队叫号系统\x64\Release\模拟银行排队叫号系统.exe
