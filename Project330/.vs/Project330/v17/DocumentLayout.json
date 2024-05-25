@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Project330\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|D:\\code\\Project330\\Project330\\exchange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|solutionrelative:Project330\\exchange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|D:\\code\\Project330\\Project330\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|solutionrelative:Project330\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|D:\\code\\Project330\\Project330\\Pow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|solutionrelative:Project330\\Pow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|D:\\code\\Project330\\Project330\\digitalsum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|solutionrelative:Project330\\digitalsum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|D:\\code\\Project330\\Project330\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19771D9E-6195-4B98-B406-128AFF4167D7}|Project330\\Project330.vcxproj|solutionrelative:Project330\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exchange.c",
+              "DocumentMoniker": "D:\\code\\Project330\\Project330\\exchange.c",
+              "RelativeDocumentMoniker": "Project330\\exchange.c",
+              "ToolTip": "D:\\code\\Project330\\Project330\\exchange.c",
+              "RelativeToolTip": "Project330\\exchange.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T12:22:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "digitalsum.c",
+              "DocumentMoniker": "D:\\code\\Project330\\Project330\\digitalsum.c",
+              "RelativeDocumentMoniker": "Project330\\digitalsum.c",
+              "ToolTip": "D:\\code\\Project330\\Project330\\digitalsum.c",
+              "RelativeToolTip": "Project330\\digitalsum.c",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T08:47:43.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pow.c",
+              "DocumentMoniker": "D:\\code\\Project330\\Project330\\Pow.c",
+              "RelativeDocumentMoniker": "Project330\\Pow.c",
+              "ToolTip": "D:\\code\\Project330\\Project330\\Pow.c",
+              "RelativeToolTip": "Project330\\Pow.c",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T08:31:25.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\Project330\\Project330\\test.c",
+              "RelativeDocumentMoniker": "Project330\\test.c",
+              "ToolTip": "D:\\code\\Project330\\Project330\\test.c",
+              "RelativeToolTip": "Project330\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T08:19:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fibonacci.c",
+              "DocumentMoniker": "D:\\code\\Project330\\Project330\\fibonacci.c",
+              "RelativeDocumentMoniker": "Project330\\fibonacci.c",
+              "ToolTip": "D:\\code\\Project330\\Project330\\fibonacci.c",
+              "RelativeToolTip": "Project330\\fibonacci.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-30T12:48:04.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
