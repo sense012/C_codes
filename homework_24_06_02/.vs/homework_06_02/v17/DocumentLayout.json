@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\homework_06_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015207DA-CC41-4DD7-8B38-1118F08ED081}|homework_06_02\\homework_06_02.vcxproj|D:\\code\\homework_06_02\\homework_06_02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{015207DA-CC41-4DD7-8B38-1118F08ED081}|homework_06_02\\homework_06_02.vcxproj|solutionrelative:homework_06_02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015207DA-CC41-4DD7-8B38-1118F08ED081}|homework_06_02\\homework_06_02.vcxproj|D:\\code\\homework_06_02\\homework_06_02\\soda_bottle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{015207DA-CC41-4DD7-8B38-1118F08ED081}|homework_06_02\\homework_06_02.vcxproj|solutionrelative:homework_06_02\\soda_bottle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\homework_06_02\\homework_06_02\\test.c",
+              "RelativeDocumentMoniker": "homework_06_02\\test.c",
+              "ToolTip": "D:\\code\\homework_06_02\\homework_06_02\\test.c",
+              "RelativeToolTip": "homework_06_02\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-01T09:31:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "soda_bottle.c",
+              "DocumentMoniker": "D:\\code\\homework_06_02\\homework_06_02\\soda_bottle.c",
+              "RelativeDocumentMoniker": "homework_06_02\\soda_bottle.c",
+              "ToolTip": "D:\\code\\homework_06_02\\homework_06_02\\soda_bottle.c",
+              "RelativeToolTip": "homework_06_02\\soda_bottle.c",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-01T09:05:56.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
